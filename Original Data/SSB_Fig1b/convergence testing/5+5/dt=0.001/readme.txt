@@ -1,0 +1,1 @@
+fixing dt = 0.0001, gradually reduce ferr from 1e-3. lmax should be set large enough, but here we set 20. 
