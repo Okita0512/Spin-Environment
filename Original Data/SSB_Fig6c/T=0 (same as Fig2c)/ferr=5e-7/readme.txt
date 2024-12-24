@@ -1,0 +1,1 @@
+this model requires lower ferr. when lmax=20 and dt=0.001, ferr should be no larger than 5e-7. As seen, that 1e-5 does not work. 
