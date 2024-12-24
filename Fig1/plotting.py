@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-fig, ax = plt.subplots() # 创建图实例
+fig, ax = plt.subplots()
 from matplotlib.pyplot import MultipleLocator, tick_params
 
 lw = 2.0
